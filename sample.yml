@@ -2,4 +2,5 @@ foo: bar
 fizz: buzz
 sample:
     config: test
-
+test:
+    branch: test_branch
